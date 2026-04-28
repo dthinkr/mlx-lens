@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+*.pt
+*.safetensors
+.DS_Store
+growth/
+uv.lock
