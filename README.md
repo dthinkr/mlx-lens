@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" width="720" alt="mlx-lens: steer LLMs on your Mac" />
+  <img src="https://raw.githubusercontent.com/dthinkr/mlx-lens/main/assets/hero.png" width="720" alt="mlx-lens: steer LLMs on your Mac" />
 </p>
 
 <h3 align="center">Mechanistic interpretability on Apple Silicon</h3>
